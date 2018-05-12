@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4092
     wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
 description: The dragon. -- Aristotle's bellows. -- The jester.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14588#Three-Wonder-Plays
 gutenberg_issued: '2005-01-04'
 gutenberg_type: Text
 identifiers:
