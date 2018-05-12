@@ -1,0 +1,31 @@
+_repo: Three-Wonder-Plays_14588
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, Lady
+    aliases:
+    - Gregory, Isabella Augusta Persse, Lady
+    - Persse, Isabella Augusta
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+description: The dragon. -- Aristotle's bellows. -- The jester.
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Drama'
+tableOfContents: "The dragon\r\nAristotle's bellows\r\nThe jester."
+title: Three Wonder Plays
+url: http://www.gutenberg.org/ebooks/14588
